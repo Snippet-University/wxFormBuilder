@@ -1,4 +1,8 @@
-# wxFormBuilder [![Build status](https://ci.appveyor.com/api/projects/status/yxpn19g0st7l9r8x/branch/master?svg=true)](https://ci.appveyor.com/project/jhasse/wxformbuilder-461d5/branch/master) [![Build Status](https://travis-ci.org/wxFormBuilder/wxFormBuilder.svg?branch=master)](https://travis-ci.org/wxFormBuilder/wxFormBuilder)
+# 1970ai Forms (wxFormBuilder) [![Build status](https://ci.appveyor.com/api/projects/status/yxpn19g0st7l9r8x/branch/master?svg=true)](https://ci.appveyor.com/project/jhasse/wxformbuilder-461d5/branch/master)
+
+> **Note:** This repository is maintained as **1970ai Forms**, a fork of the original
+> [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) project.
+> See [HEALTH_REPORT.md](HEALTH_REPORT.md) for current build status and known issues.
 
 ## Download Binaries
 
